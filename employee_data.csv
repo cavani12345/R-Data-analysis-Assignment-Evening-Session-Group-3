@@ -1,0 +1,915 @@
+age,salary,score,gender,Department,year
+35,338965,69,Male,Engineering,1909
+48,356349,76,Female,Product Management,1948
+45,387725,80,Female,Human Resources,1959
+36,682619,51,Male,Human Resources,1962
+20,554851,71,Male,Human Resources,1963
+49,632775,75,Male,Product Management,1964
+59,998429,78,Female,Human Resources,1964
+56,951792,65,Male,Accounting,1965
+27,480560,70,Female,Accounting,1967
+33,444067,59,Female,Product Management,1967
+42,237494,55,Male,Human Resources,1968
+41,417243,50,Male,Human Resources,1969
+35,359428,58,Male,Marketing,1969
+18,938974,61,Female,Accounting,1969
+25,779118,79,Male,Human Resources,1969
+55,981851,50,Male,Engineering,1975
+35,931876,73,Female,Engineering,1977
+36,413931,75,Female,Human Resources,1977
+53,981298,74,Female,Engineering,1977
+34,295241,72,Male,Marketing,1979
+53,524678,53,Female,Human Resources,1983
+42,974668,54,Male,Human Resources,1983
+58,252152,60,Female,Human Resources,1984
+50,266230,65,Female,Human Resources,1984
+23,654771,53,Female,Engineering,1984
+40,286383,77,Female,Human Resources,1984
+60,947343,73,Female,Human Resources,1984
+51,817128,62,Male,Human Resources,1984
+36,865979,56,Female,Product Management,1984
+19,332109,54,Male,Engineering,1984
+46,676883,60,Female,Marketing,1985
+50,261589,55,Male,Human Resources,1985
+20,732248,67,Male,Engineering,1985
+58,294465,63,Female,Product Management,1985
+42,323530,61,Female,Human Resources,1985
+36,359099,54,Female,Accounting,1985
+49,360981,68,Male,Engineering,1985
+43,979843,62,Male,Engineering,1985
+41,890765,78,Female,Marketing,1985
+57,652283,52,Female,Human Resources,1985
+41,229560,77,Female,Marketing,1985
+43,802877,64,Male,Human Resources,1985
+56,440438,67,Female,Engineering,1985
+43,722183,73,Female,Accounting,1985
+36,277381,68,Male,Human Resources,1985
+58,310941,69,Male,Human Resources,1985
+27,929363,74,Male,Human Resources,1985
+19,426594,59,Male,Engineering,1986
+48,470937,68,Female,Product Management,1986
+18,999998,56,Female,Accounting,1986
+24,629022,76,Female,Human Resources,1986
+43,388541,58,Male,Human Resources,1986
+57,690199,54,Male,Marketing,1986
+56,357602,66,Male,Marketing,1986
+56,323090,80,Male,Human Resources,1986
+52,906538,73,Male,Human Resources,1986
+41,300989,75,Male,Engineering,1986
+30,889575,53,Male,Human Resources,1986
+31,315023,65,Male,Human Resources,1986
+23,634618,76,Male,Engineering,1986
+52,536642,66,Male,Human Resources,1986
+51,273125,59,Male,Engineering,1986
+46,968197,57,Male,Human Resources,1986
+24,461074,55,Male,Human Resources,1986
+52,732463,60,Male,Accounting,1987
+33,870318,71,Male,Accounting,1987
+56,647772,64,Female,Accounting,1987
+18,759743,59,Male,Accounting,1987
+57,613275,79,Female,Marketing,1987
+47,712758,68,Female,Accounting,1987
+49,616786,65,Male,Engineering,1987
+59,908517,60,Male,Marketing,1987
+26,956477,67,Female,Marketing,1987
+46,492150,76,Female,Engineering,1987
+52,501487,56,Male,Human Resources,1987
+54,755365,70,Female,Product Management,1987
+43,414490,50,Female,Human Resources,1987
+26,636638,64,Female,Marketing,1988
+18,695413,74,Male,Human Resources,1988
+52,915931,50,Male,Engineering,1988
+58,988151,77,Male,Human Resources,1988
+49,283705,50,Male,Product Management,1988
+37,409570,57,Female,Engineering,1988
+48,528835,57,Male,Human Resources,1988
+21,210140,56,Male,Engineering,1988
+25,647290,55,Male,Engineering,1988
+23,783966,79,Female,Marketing,1988
+25,889337,76,Female,Human Resources,1988
+48,246635,54,Female,Human Resources,1988
+56,897741,72,Male,Accounting,1989
+58,282205,55,Female,Engineering,1989
+45,957377,66,Female,Engineering,1989
+51,929166,60,Male,Engineering,1989
+46,827372,76,Female,Human Resources,1989
+30,481792,55,Female,Engineering,1989
+36,834601,78,Male,Accounting,1989
+55,403012,79,Male,Human Resources,1989
+33,412742,69,Male,Product Management,1989
+49,855667,52,Male,Engineering,1989
+38,496535,72,Male,Marketing,1989
+19,408489,66,Female,Engineering,1989
+40,432498,53,Male,Human Resources,1989
+48,229894,57,Male,Human Resources,1989
+51,763808,59,Male,Engineering,1989
+19,966937,64,Male,Human Resources,1989
+50,756163,61,Male,Human Resources,1989
+29,299830,60,Female,Accounting,1989
+47,354183,74,Female,Accounting,1989
+29,458992,53,Female,Human Resources,1989
+19,546854,53,Female,Human Resources,1989
+40,739764,63,Female,Engineering,1990
+58,696701,69,Female,Engineering,1990
+33,323011,60,Female,Product Management,1990
+59,847358,70,Male,Engineering,1990
+34,657278,80,Male,Accounting,1990
+55,818952,70,Female,Engineering,1990
+47,641599,61,Male,Human Resources,1990
+47,430899,57,Male,Human Resources,1990
+60,947247,68,Male,Accounting,1990
+46,387805,61,Female,Human Resources,1990
+31,593614,50,Female,Human Resources,1990
+29,364145,53,Male,Accounting,1990
+22,989742,67,Female,Human Resources,1990
+40,379910,67,Male,Marketing,1990
+34,732987,78,Male,Engineering,1990
+35,572555,50,Female,Human Resources,1990
+57,260244,52,Male,Accounting,1991
+23,608524,74,Female,Human Resources,1991
+37,685112,69,Male,Human Resources,1991
+36,216229,80,Female,Human Resources,1991
+23,913122,70,Female,Engineering,1991
+40,241286,62,Female,Engineering,1991
+57,600952,71,Female,Human Resources,1991
+58,833159,57,Male,Product Management,1991
+58,599027,67,Male,Engineering,1991
+44,537842,56,Male,Human Resources,1991
+30,754358,70,Female,Human Resources,1991
+34,333770,75,Male,Marketing,1991
+54,885056,59,Female,Human Resources,1991
+22,901776,59,Female,Human Resources,1991
+57,800356,66,Male,Marketing,1992
+44,226440,50,Female,Engineering,1992
+19,549295,74,Male,Product Management,1992
+22,675444,55,Female,Accounting,1992
+55,559983,54,Male,Marketing,1992
+50,613206,59,Male,Accounting,1992
+31,346887,77,Male,Engineering,1992
+26,438279,63,Female,Human Resources,1992
+35,606311,70,Female,Human Resources,1992
+45,300404,65,Male,Accounting,1992
+21,258121,68,Female,Marketing,1992
+57,628967,71,Female,Human Resources,1992
+43,619753,74,Male,Human Resources,1992
+40,780147,58,Male,Engineering,1992
+36,796634,59,Female,Engineering,1992
+55,714089,53,Male,Human Resources,1992
+50,216467,51,Male,Engineering,1992
+49,829659,56,Male,Human Resources,1992
+56,532669,70,Male,Product Management,1992
+42,238895,70,Female,Marketing,1992
+44,929613,64,Male,Product Management,1992
+31,935811,68,Male,Product Management,1992
+38,918678,51,Female,Marketing,1992
+22,935640,53,Female,Marketing,1992
+26,253344,63,Female,Human Resources,1992
+49,959762,50,Female,Marketing,1992
+46,877835,59,Female,Marketing,1992
+34,491723,66,Male,Engineering,1992
+46,203548,54,Male,Engineering,1992
+21,241107,79,Female,Engineering,1992
+38,395211,60,Male,Human Resources,1992
+27,430997,67,Female,Product Management,1992
+43,700567,78,Female,Human Resources,1992
+27,239018,72,Male,Human Resources,1992
+60,999851,63,Female,Engineering,1992
+54,793347,61,Male,Engineering,1992
+46,568994,67,Male,Marketing,1992
+46,812287,64,Male,Marketing,1992
+34,859969,60,Female,Engineering,1993
+24,386923,66,Male,Human Resources,1993
+41,584635,74,Female,Human Resources,1993
+47,649750,68,Female,Product Management,1993
+42,867963,50,Male,Engineering,1993
+44,275981,77,Female,Engineering,1993
+58,640299,51,Male,Human Resources,1993
+28,893081,61,Female,Engineering,1993
+44,527276,53,Female,Accounting,1993
+49,883071,66,Male,Accounting,1993
+49,808514,58,Male,Product Management,1993
+34,535080,64,Male,Accounting,1993
+49,939913,58,Female,Accounting,1993
+39,391826,79,Female,Product Management,1993
+49,804035,51,Male,Product Management,1993
+59,353781,57,Female,Engineering,1993
+40,243002,64,Female,Marketing,1993
+41,977322,69,Female,Human Resources,1993
+56,856331,78,Female,Human Resources,1993
+59,224974,66,Male,Human Resources,1993
+50,885832,68,Male,Accounting,1993
+54,665348,55,Male,Accounting,1993
+25,460424,66,Male,Human Resources,1993
+19,351254,67,Female,Human Resources,1993
+36,202024,58,Female,Human Resources,1993
+32,229432,78,Female,Engineering,1993
+55,541856,67,Female,Human Resources,1993
+25,387390,64,Male,Human Resources,1993
+37,308812,64,Female,Engineering,1993
+54,201728,62,Male,Human Resources,1993
+51,511988,78,Female,Human Resources,1993
+39,642589,73,Male,Accounting,1993
+22,353281,63,Male,Marketing,1993
+26,334267,67,Female,Human Resources,1993
+29,920404,63,Male,Engineering,1993
+46,327561,51,Female,Engineering,1993
+18,506660,71,Female,Marketing,1993
+20,808543,53,Male,Human Resources,1993
+51,896248,61,Female,Human Resources,1993
+54,874147,79,Female,Engineering,1993
+59,908541,62,Male,Human Resources,1994
+60,386038,63,Male,Product Management,1994
+54,947228,61,Female,Product Management,1994
+56,690504,51,Male,Marketing,1994
+53,928377,54,Female,Engineering,1994
+59,719309,72,Female,Human Resources,1994
+59,324403,66,Male,Marketing,1994
+52,896795,77,Male,Engineering,1994
+38,875576,61,Female,Engineering,1994
+33,760471,68,Female,Marketing,1994
+43,859050,69,Female,Marketing,1994
+55,981226,74,Female,Marketing,1994
+36,489592,51,Male,Marketing,1994
+54,326947,72,Male,Human Resources,1994
+43,999802,57,Male,Product Management,1994
+53,582297,50,Female,Product Management,1994
+33,512774,62,Male,Human Resources,1994
+27,309950,50,Male,Accounting,1994
+46,608642,76,Male,Marketing,1994
+60,365328,65,Male,Human Resources,1994
+58,324550,70,Female,Engineering,1994
+22,253459,76,Male,Accounting,1994
+44,448452,78,Female,Human Resources,1994
+53,997404,72,Female,Human Resources,1994
+53,511758,73,Female,Human Resources,1994
+49,784940,79,Female,Engineering,1994
+25,428819,53,Male,Marketing,1994
+28,843703,75,Male,Product Management,1994
+45,816434,56,Male,Engineering,1994
+47,780198,71,Male,Human Resources,1994
+40,337208,64,Male,Human Resources,1994
+60,862339,71,Male,Marketing,1994
+53,313959,80,Male,Human Resources,1995
+27,347686,70,Female,Accounting,1995
+52,880106,68,Male,Marketing,1995
+55,219187,74,Female,Accounting,1995
+32,999023,63,Male,Engineering,1995
+34,465867,75,Male,Engineering,1995
+47,353026,69,Male,Human Resources,1995
+54,600429,75,Female,Accounting,1995
+38,971513,52,Female,Accounting,1995
+51,248458,59,Female,Human Resources,1995
+44,718376,66,Male,Engineering,1995
+59,289826,76,Female,Human Resources,1995
+45,304829,50,Male,Engineering,1995
+55,555443,52,Male,Engineering,1995
+58,914563,63,Female,Accounting,1995
+26,967688,54,Male,Human Resources,1995
+19,573129,77,Male,Human Resources,1995
+41,818060,68,Male,Engineering,1995
+60,255299,55,Male,Engineering,1995
+30,752632,67,Male,Engineering,1995
+58,631590,64,Male,Engineering,1995
+33,529437,72,Female,Human Resources,1995
+47,664661,54,Male,Human Resources,1995
+42,604830,67,Female,Engineering,1995
+24,629998,56,Female,Human Resources,1995
+26,819621,72,Female,Human Resources,1995
+55,435334,79,Female,Human Resources,1995
+32,308805,58,Male,Accounting,1995
+58,491898,69,Male,Accounting,1995
+38,410722,66,Male,Human Resources,1995
+31,495832,62,Female,Accounting,1995
+28,595527,50,Male,Human Resources,1995
+50,479425,79,Male,Human Resources,1995
+41,941464,56,Female,Human Resources,1995
+22,444756,62,Male,Accounting,1995
+47,322327,50,Male,Engineering,1995
+27,364660,52,Male,Accounting,1995
+21,496572,54,Male,Marketing,1995
+32,277376,54,Male,Accounting,1995
+48,476903,53,Female,Human Resources,1995
+33,632339,78,Male,Engineering,1995
+27,243825,54,Female,Engineering,1995
+59,879685,80,Male,Marketing,1996
+26,803496,61,Male,Human Resources,1996
+33,212330,62,Male,Human Resources,1996
+56,595526,58,Male,Human Resources,1996
+42,880173,51,Female,Engineering,1996
+27,782747,56,Male,Engineering,1996
+30,391810,69,Male,Human Resources,1996
+59,744770,59,Female,Accounting,1996
+37,656335,78,Female,Product Management,1996
+60,731266,72,Male,Engineering,1996
+24,740951,65,Female,Marketing,1996
+60,823284,66,Male,Human Resources,1996
+46,740015,65,Female,Engineering,1996
+52,489123,54,Female,Accounting,1996
+40,915947,69,Female,Human Resources,1996
+39,697750,75,Male,Product Management,1996
+23,992579,72,Male,Marketing,1996
+30,215688,54,Female,Engineering,1996
+26,740203,63,Male,Marketing,1996
+30,786928,51,Female,Engineering,1996
+28,811415,70,Female,Human Resources,1996
+40,464881,51,Female,Accounting,1996
+34,633170,58,Male,Product Management,1996
+60,200247,80,Male,Product Management,1996
+55,828499,77,Male,Marketing,1997
+28,793506,77,Male,Human Resources,1997
+39,471922,78,Male,Product Management,1997
+46,666021,80,Female,Product Management,1997
+47,301725,72,Female,Accounting,1997
+52,818848,70,Male,Human Resources,1997
+24,364397,75,Male,Engineering,1997
+48,329157,51,Female,Accounting,1997
+53,360426,64,Male,Marketing,1997
+25,950210,57,Female,Engineering,1997
+55,547993,74,Female,Human Resources,1997
+43,228816,68,Female,Human Resources,1997
+25,400265,78,Female,Product Management,1997
+22,509434,79,Female,Engineering,1997
+45,315883,59,Female,Human Resources,1997
+38,744645,57,Female,Human Resources,1997
+30,325651,62,Male,Human Resources,1997
+50,783858,70,Male,Human Resources,1997
+26,844391,57,Female,Engineering,1997
+27,562054,58,Male,Engineering,1997
+60,363492,73,Male,Human Resources,1997
+42,307619,78,Female,Marketing,1998
+43,524328,55,Male,Accounting,1998
+18,245015,70,Female,Accounting,1998
+36,234967,67,Female,Accounting,1998
+42,438592,63,Male,Marketing,1998
+48,694238,55,Male,Engineering,1998
+42,412228,60,Female,Engineering,1998
+49,679047,67,Male,Human Resources,1998
+53,421927,61,Male,Human Resources,1998
+44,301344,63,Female,Human Resources,1998
+18,925958,69,Male,Engineering,1998
+52,496999,50,Female,Marketing,1998
+18,918253,65,Male,Human Resources,1998
+25,949522,71,Female,Human Resources,1998
+19,503730,57,Female,Engineering,1998
+34,899705,80,Male,Human Resources,1998
+23,401878,56,Female,Accounting,1998
+28,848669,78,Female,Accounting,1998
+20,459173,51,Male,Engineering,1998
+52,511954,79,Male,Product Management,1998
+46,412279,51,Male,Accounting,1998
+34,573478,69,Female,Engineering,1998
+40,388892,54,Male,Human Resources,1998
+58,339527,53,Female,Human Resources,1998
+31,938498,52,Female,Engineering,1998
+37,443728,61,Female,Product Management,1998
+60,298163,64,Female,Product Management,1998
+25,572383,55,Male,Human Resources,1998
+36,949801,65,Male,Marketing,1998
+21,452605,71,Male,Engineering,1998
+46,942964,57,Male,Accounting,1998
+41,523169,78,Male,Accounting,1998
+57,217805,72,Female,Accounting,1998
+54,412305,70,Male,Marketing,1998
+21,962556,55,Female,Product Management,1999
+51,571153,72,Male,Marketing,1999
+48,894922,61,Female,Marketing,1999
+31,301247,64,Male,Human Resources,1999
+28,461467,60,Female,Marketing,1999
+27,388565,72,Male,Engineering,1999
+46,308553,69,Female,Human Resources,1999
+30,363177,70,Male,Human Resources,1999
+58,220155,61,Male,Accounting,1999
+57,944242,53,Female,Engineering,1999
+48,223019,54,Male,Human Resources,1999
+54,928161,67,Female,Marketing,1999
+55,624051,70,Male,Human Resources,1999
+30,203440,74,Female,Human Resources,1999
+41,772277,76,Female,Human Resources,1999
+57,239991,54,Female,Marketing,1999
+32,208886,73,Female,Marketing,1999
+25,596162,73,Female,Engineering,1999
+59,374968,52,Female,Marketing,1999
+50,679185,78,Male,Engineering,1999
+30,780756,62,Male,Human Resources,1999
+47,637134,66,Male,Human Resources,1999
+31,668290,78,Female,Human Resources,1999
+53,756136,62,Male,Engineering,1999
+27,796572,68,Male,Accounting,1999
+48,946556,78,Male,Human Resources,1999
+24,608857,53,Male,Marketing,1999
+60,412947,57,Female,Accounting,1999
+21,781676,59,Male,Human Resources,1999
+25,463319,71,Female,Human Resources,2000
+43,581077,78,Female,Marketing,2000
+28,383172,62,Male,Engineering,2000
+25,648116,54,Male,Marketing,2000
+47,411664,69,Female,Engineering,2000
+53,329554,51,Male,Accounting,2000
+60,490474,74,Male,Accounting,2000
+27,808785,51,Male,Marketing,2000
+40,649927,67,Female,Marketing,2000
+38,389096,53,Female,Marketing,2000
+43,616787,55,Female,Accounting,2000
+40,739309,72,Female,Human Resources,2000
+32,499992,54,Male,Human Resources,2000
+59,888657,57,Female,Accounting,2000
+43,251611,76,Male,Human Resources,2000
+22,268341,77,Male,Human Resources,2000
+27,854232,75,Male,Marketing,2000
+20,940065,77,Female,Human Resources,2000
+22,213346,76,Female,Marketing,2000
+30,692553,58,Female,Marketing,2000
+37,728662,57,Female,Accounting,2000
+38,218470,61,Female,Engineering,2000
+23,914752,75,Female,Engineering,2000
+21,515187,79,Female,Accounting,2000
+33,529382,79,Female,Engineering,2000
+24,966827,58,Female,Human Resources,2000
+26,974825,70,Female,Human Resources,2000
+19,918431,69,Male,Engineering,2000
+22,322408,59,Female,Product Management,2000
+55,884156,71,Female,Engineering,2000
+42,735850,57,Female,Human Resources,2000
+22,993624,76,Female,Engineering,2001
+39,432641,80,Female,Marketing,2001
+43,394868,73,Female,Marketing,2001
+23,763676,62,Male,Product Management,2001
+47,405069,65,Male,Engineering,2001
+23,672272,59,Female,Marketing,2001
+45,653937,73,Female,Engineering,2001
+41,719314,66,Female,Marketing,2001
+33,679389,67,Male,Human Resources,2001
+55,215644,72,Male,Human Resources,2001
+47,431866,60,Female,Engineering,2001
+24,698046,50,Male,Engineering,2001
+58,421319,63,Male,Marketing,2001
+38,402923,70,Male,Engineering,2001
+52,677590,77,Female,Engineering,2001
+18,944875,74,Male,Engineering,2001
+32,732108,72,Female,Engineering,2001
+42,941509,57,Male,Human Resources,2001
+47,747169,78,Male,Engineering,2001
+45,203932,75,Female,Human Resources,2001
+36,453235,73,Female,Marketing,2001
+38,585991,50,Male,Engineering,2001
+41,601021,50,Female,Human Resources,2001
+41,796852,77,Female,Engineering,2001
+59,649276,54,Female,Human Resources,2001
+18,737343,54,Female,Human Resources,2001
+50,781320,78,Female,Engineering,2001
+42,236721,59,Female,Accounting,2001
+58,237567,76,Male,Human Resources,2001
+19,908375,58,Female,Engineering,2001
+55,917556,57,Male,Marketing,2001
+38,440263,58,Male,Human Resources,2001
+58,606099,51,Female,Human Resources,2001
+40,991698,69,Female,Human Resources,2001
+33,334895,56,Male,Human Resources,2001
+31,766259,55,Male,Human Resources,2001
+34,849750,67,Female,Engineering,2002
+45,379550,76,Male,Human Resources,2002
+50,221884,51,Female,Engineering,2002
+31,516112,51,Male,Accounting,2002
+46,208177,55,Female,Human Resources,2002
+42,434523,54,Male,Marketing,2002
+35,269458,78,Female,Human Resources,2002
+32,877800,68,Male,Accounting,2002
+58,586176,60,Female,Human Resources,2002
+39,676751,59,Female,Human Resources,2002
+39,567916,77,Male,Human Resources,2002
+23,847935,71,Female,Human Resources,2002
+38,636435,70,Female,Human Resources,2002
+28,857805,56,Female,Human Resources,2002
+57,695941,79,Female,Accounting,2002
+24,784563,56,Female,Human Resources,2002
+39,843821,73,Female,Human Resources,2002
+40,710913,57,Female,Human Resources,2002
+52,255924,76,Female,Human Resources,2002
+57,231575,76,Male,Product Management,2002
+38,598527,80,Male,Human Resources,2002
+22,842418,57,Female,Accounting,2002
+28,952088,59,Male,Engineering,2002
+21,608679,62,Male,Engineering,2002
+37,256878,70,Female,Engineering,2002
+32,485374,69,Female,Human Resources,2002
+43,559288,75,Female,Accounting,2002
+28,281162,53,Male,Engineering,2002
+47,389766,51,Male,Accounting,2002
+28,398750,51,Female,Marketing,2002
+25,603369,79,Female,Human Resources,2002
+41,266052,52,Female,Engineering,2002
+59,508666,72,Female,Human Resources,2002
+21,632861,63,Female,Accounting,2002
+39,614054,71,Male,Product Management,2002
+36,715196,64,Male,Marketing,2002
+57,301653,67,Male,Human Resources,2003
+23,377110,53,Male,Human Resources,2003
+23,506300,58,Male,Marketing,2003
+22,282234,59,Male,Accounting,2003
+29,380715,61,Male,Accounting,2003
+42,868225,77,Female,Engineering,2003
+46,392912,75,Male,Human Resources,2003
+55,370925,53,Female,Engineering,2003
+41,569691,61,Male,Human Resources,2003
+18,575803,70,Male,Human Resources,2003
+19,526797,67,Female,Engineering,2003
+55,970283,65,Female,Product Management,2003
+60,809699,69,Male,Human Resources,2003
+33,373595,57,Female,Marketing,2003
+18,814062,80,Female,Human Resources,2003
+58,665204,63,Female,Engineering,2003
+47,374199,68,Female,Marketing,2003
+54,588568,61,Male,Marketing,2003
+49,619509,73,Female,Human Resources,2003
+19,221544,56,Female,Human Resources,2003
+30,215758,62,Male,Engineering,2003
+60,613519,53,Male,Human Resources,2003
+34,626875,58,Male,Engineering,2003
+22,641809,53,Male,Accounting,2003
+29,459874,70,Male,Human Resources,2003
+32,565004,53,Female,Product Management,2003
+26,760397,57,Male,Human Resources,2003
+56,391646,50,Male,Human Resources,2003
+24,453915,68,Male,Accounting,2003
+32,934562,51,Female,Human Resources,2003
+26,266971,61,Male,Human Resources,2003
+29,988582,67,Male,Accounting,2003
+19,898542,57,Female,Marketing,2003
+41,396719,66,Male,Marketing,2003
+39,293036,60,Male,Human Resources,2003
+56,902451,71,Male,Product Management,2003
+49,388277,80,Male,Human Resources,2003
+44,873256,79,Female,Engineering,2003
+21,572385,68,Male,Accounting,2003
+25,794597,51,Male,Accounting,2003
+37,915443,55,Female,Marketing,2003
+53,789419,61,Female,Human Resources,2003
+19,693723,77,Male,Marketing,2004
+33,537954,73,Male,Human Resources,2004
+47,665570,76,Female,Human Resources,2004
+23,988464,58,Male,Human Resources,2004
+41,710731,67,Female,Product Management,2004
+32,551237,76,Male,Engineering,2004
+57,692776,71,Female,Marketing,2004
+53,480357,80,Female,Product Management,2004
+42,373222,66,Female,Marketing,2004
+32,683235,67,Male,Engineering,2004
+60,689627,80,Male,Marketing,2004
+25,641271,74,Male,Accounting,2004
+33,959133,50,Male,Engineering,2004
+48,630666,75,Male,Accounting,2004
+49,203136,52,Female,Human Resources,2004
+24,627459,70,Female,Engineering,2004
+33,980822,55,Male,Engineering,2004
+27,400165,78,Male,Marketing,2004
+32,847637,62,Male,Engineering,2004
+53,833652,62,Female,Accounting,2004
+18,962946,77,Male,Human Resources,2004
+49,217481,62,Female,Marketing,2004
+36,999459,68,Male,Human Resources,2004
+22,997868,57,Male,Human Resources,2004
+48,849452,76,Female,Engineering,2004
+44,611351,54,Female,Human Resources,2004
+50,487704,57,Male,Product Management,2004
+24,392491,66,Female,Human Resources,2004
+48,442748,60,Female,Engineering,2005
+42,249874,63,Male,Human Resources,2005
+48,862078,72,Female,Human Resources,2005
+25,317270,50,Male,Human Resources,2005
+55,567920,62,Female,Engineering,2005
+60,677288,66,Male,Human Resources,2005
+25,461085,70,Female,Engineering,2005
+33,251312,62,Male,Human Resources,2005
+59,715825,77,Male,Human Resources,2005
+36,827390,66,Male,Marketing,2005
+29,779786,65,Female,Human Resources,2005
+41,701026,70,Male,Marketing,2005
+42,232187,63,Female,Engineering,2005
+51,424233,65,Female,Engineering,2005
+26,597648,53,Male,Human Resources,2005
+56,759951,75,Male,Accounting,2005
+27,256868,64,Female,Engineering,2005
+49,616222,50,Male,Human Resources,2005
+38,224957,75,Female,Engineering,2005
+22,390571,78,Male,Marketing,2005
+25,807139,72,Female,Engineering,2005
+32,794203,57,Female,Accounting,2005
+40,808682,76,Male,Product Management,2005
+54,876013,75,Female,Engineering,2005
+20,805393,60,Female,Engineering,2005
+25,875534,53,Male,Marketing,2005
+55,237849,54,Male,Product Management,2005
+44,358093,55,Male,Engineering,2005
+23,283514,69,Female,Human Resources,2005
+19,397030,57,Male,Human Resources,2005
+52,255356,77,Male,Human Resources,2005
+24,216269,54,Female,Human Resources,2005
+33,517707,56,Male,Marketing,2005
+34,793328,56,Male,Marketing,2005
+48,478652,52,Male,Marketing,2005
+30,399469,54,Female,Human Resources,2005
+19,562887,51,Male,Accounting,2005
+29,991228,60,Male,Product Management,2005
+41,783878,70,Female,Engineering,2005
+54,864287,50,Male,Marketing,2005
+37,981177,55,Male,Marketing,2006
+31,344701,65,Male,Human Resources,2006
+53,636240,61,Male,Marketing,2006
+57,938197,77,Female,Marketing,2006
+60,652285,72,Male,Human Resources,2006
+32,451571,63,Male,Marketing,2006
+58,330710,61,Male,Accounting,2006
+22,213806,79,Female,Accounting,2006
+23,629020,53,Female,Product Management,2006
+48,977972,57,Female,Product Management,2006
+58,303118,69,Female,Accounting,2006
+36,818440,51,Female,Human Resources,2006
+41,901452,73,Male,Human Resources,2006
+28,596346,79,Male,Marketing,2006
+38,527835,68,Male,Engineering,2006
+39,245622,54,Female,Engineering,2006
+28,352223,64,Male,Human Resources,2006
+31,738483,51,Male,Human Resources,2006
+52,607132,68,Female,Engineering,2006
+33,478765,65,Male,Marketing,2006
+60,914572,56,Female,Human Resources,2006
+50,670725,80,Female,Engineering,2006
+55,412624,78,Male,Product Management,2006
+44,839647,61,Female,Human Resources,2006
+27,846876,78,Male,Human Resources,2006
+32,832988,75,Female,Marketing,2006
+45,968390,75,Female,Product Management,2006
+49,496358,65,Female,Product Management,2006
+52,200615,72,Male,Accounting,2006
+38,672121,62,Male,Product Management,2006
+39,933068,66,Male,Accounting,2006
+39,215502,73,Female,Engineering,2006
+19,817921,61,Male,Engineering,2006
+25,333272,55,Female,Engineering,2006
+39,660418,57,Female,Engineering,2006
+41,806367,55,Female,Human Resources,2006
+31,431465,76,Male,Marketing,2006
+37,494979,57,Female,Accounting,2006
+24,221482,74,Female,Human Resources,2007
+28,762026,57,Male,Marketing,2007
+35,962544,69,Male,Accounting,2007
+32,799047,73,Male,Accounting,2007
+18,971625,50,Male,Engineering,2007
+20,695065,55,Female,Engineering,2007
+39,420065,62,Male,Engineering,2007
+36,992054,63,Male,Human Resources,2007
+57,864443,79,Female,Human Resources,2007
+24,331948,51,Female,Marketing,2007
+24,772554,59,Male,Human Resources,2007
+52,663886,72,Female,Human Resources,2007
+54,579144,71,Male,Engineering,2007
+25,938103,54,Male,Engineering,2007
+55,722868,79,Male,Human Resources,2007
+26,358931,56,Male,Human Resources,2007
+59,905402,80,Female,Human Resources,2007
+36,733124,56,Male,Engineering,2007
+33,470981,53,Female,Engineering,2007
+23,895267,79,Male,Marketing,2007
+25,587857,58,Male,Engineering,2007
+21,658380,63,Female,Engineering,2007
+59,215595,59,Female,Human Resources,2007
+56,415744,57,Female,Marketing,2007
+41,965013,71,Female,Human Resources,2007
+22,999391,63,Female,Accounting,2007
+45,623817,55,Female,Engineering,2007
+34,785475,67,Female,Marketing,2007
+55,992192,77,Male,Marketing,2007
+35,237171,63,Female,Human Resources,2007
+27,611827,68,Female,Human Resources,2007
+38,961427,64,Female,Accounting,2007
+51,922990,76,Female,Accounting,2007
+34,487119,56,Male,Product Management,2007
+35,966097,58,Female,Marketing,2007
+24,697562,57,Female,Engineering,2007
+40,783929,65,Male,Marketing,2007
+54,300838,56,Female,Engineering,2007
+51,774598,74,Male,Engineering,2008
+18,273755,74,Female,Accounting,2008
+28,890198,61,Male,Product Management,2008
+29,487879,68,Male,Human Resources,2008
+26,503880,59,Male,Marketing,2008
+38,425192,59,Male,Marketing,2008
+49,807299,54,Female,Engineering,2008
+27,219798,52,Female,Marketing,2008
+35,283655,63,Female,Human Resources,2008
+19,354402,59,Male,Product Management,2008
+21,453493,59,Female,Accounting,2008
+50,799719,75,Female,Engineering,2008
+27,246560,57,Male,Marketing,2008
+34,392347,52,Male,Engineering,2008
+41,684477,71,Female,Engineering,2008
+39,683080,51,Female,Engineering,2008
+46,814915,75,Female,Product Management,2008
+53,340244,76,Female,Product Management,2008
+40,432162,61,Male,Marketing,2008
+31,501667,64,Female,Accounting,2008
+44,873191,59,Female,Marketing,2008
+53,445190,69,Female,Marketing,2008
+25,457436,64,Female,Accounting,2008
+46,454294,66,Female,Marketing,2008
+37,749646,68,Female,Engineering,2008
+29,535922,59,Female,Marketing,2008
+51,226106,77,Female,Human Resources,2008
+24,224724,56,Female,Product Management,2008
+31,865550,65,Female,Product Management,2008
+45,700371,72,Male,Product Management,2008
+45,247674,74,Male,Human Resources,2008
+41,253952,60,Male,Engineering,2008
+44,717201,63,Male,Human Resources,2008
+47,833936,63,Male,Product Management,2008
+25,242838,51,Male,Marketing,2008
+20,467531,61,Female,Human Resources,2008
+42,530104,62,Male,Accounting,2008
+58,221372,79,Female,Accounting,2008
+31,806790,50,Male,Engineering,2008
+51,865476,68,Female,Marketing,2008
+28,738356,54,Female,Marketing,2008
+58,501771,71,Male,Product Management,2008
+49,684640,78,Female,Human Resources,2009
+33,795205,61,Female,Product Management,2009
+33,251882,71,Female,Engineering,2009
+32,890579,53,Male,Engineering,2009
+48,221883,56,Female,Human Resources,2009
+33,607091,54,Female,Human Resources,2009
+29,643648,60,Male,Marketing,2009
+20,379711,62,Female,Human Resources,2009
+28,684827,59,Female,Accounting,2009
+43,332897,65,Male,Marketing,2009
+34,647886,59,Male,Engineering,2009
+50,725969,67,Male,Human Resources,2009
+54,756268,62,Male,Human Resources,2009
+35,740459,68,Male,Human Resources,2009
+29,759957,71,Female,Accounting,2009
+39,941472,80,Male,Accounting,2009
+26,979244,62,Female,Human Resources,2009
+36,278379,70,Male,Engineering,2009
+25,568159,63,Female,Human Resources,2009
+27,203741,64,Male,Human Resources,2009
+56,447339,59,Female,Human Resources,2009
+36,636181,73,Male,Accounting,2009
+29,803722,66,Female,Marketing,2009
+43,709256,63,Male,Product Management,2009
+30,497761,79,Female,Human Resources,2009
+33,232365,59,Male,Engineering,2009
+34,864010,67,Female,Engineering,2009
+50,352659,77,Female,Engineering,2009
+23,585451,76,Male,Engineering,2009
+27,204704,65,Female,Human Resources,2009
+35,432483,56,Male,Human Resources,2009
+40,251013,74,Female,Accounting,2009
+29,232188,68,Female,Marketing,2009
+20,626669,68,Male,Marketing,2009
+38,270433,54,Female,Accounting,2009
+58,815883,77,Female,Human Resources,2009
+18,370982,60,Female,Engineering,2009
+44,706284,71,Male,Engineering,2009
+37,302509,58,Male,Marketing,2009
+52,971967,71,Male,Human Resources,2009
+33,927900,63,Female,Accounting,2009
+37,846079,51,Male,Human Resources,2009
+42,293618,74,Male,Product Management,2009
+40,750592,58,Female,Marketing,2009
+57,435807,59,Female,Human Resources,2009
+60,912070,57,Male,Human Resources,2009
+42,941007,76,Male,Engineering,2009
+48,452151,69,Male,Engineering,2010
+45,583713,65,Male,Accounting,2010
+21,883299,74,Male,Engineering,2010
+48,391662,58,Female,Human Resources,2010
+33,999476,56,Male,Human Resources,2010
+32,856370,76,Male,Product Management,2010
+56,607645,71,Male,Engineering,2010
+53,202079,60,Female,Engineering,2010
+30,749061,59,Male,Engineering,2010
+52,426568,68,Female,Accounting,2010
+22,474675,55,Female,Marketing,2010
+28,979160,59,Male,Accounting,2010
+35,204341,50,Male,Engineering,2010
+32,495200,60,Female,Accounting,2010
+30,758184,50,Female,Engineering,2010
+32,966005,53,Male,Human Resources,2010
+58,753161,66,Male,Marketing,2010
+51,661741,58,Female,Human Resources,2010
+19,816742,58,Male,Accounting,2010
+45,903908,74,Male,Human Resources,2010
+25,603437,77,Female,Marketing,2010
+28,201381,66,Male,Human Resources,2010
+57,263731,66,Male,Marketing,2010
+23,230597,53,Female,Engineering,2010
+19,874469,58,Male,Engineering,2010
+42,257978,73,Female,Human Resources,2010
+47,604256,56,Male,Accounting,2010
+18,310686,78,Female,Accounting,2010
+46,549273,53,Female,Human Resources,2010
+59,842188,61,Male,Human Resources,2010
+60,613827,62,Male,Human Resources,2010
+26,661406,57,Male,Product Management,2010
+48,726879,73,Male,Human Resources,2010
+32,930661,50,Female,Accounting,2010
+58,664035,79,Female,Human Resources,2010
+33,914971,63,Female,Engineering,2010
+34,217243,76,Male,Product Management,2010
+59,605713,76,Male,Accounting,2010
+55,713643,62,Male,Human Resources,2010
+18,657355,51,Female,Human Resources,2010
+31,714077,74,Female,Product Management,2010
+31,430967,78,Female,Engineering,2010
+36,739570,78,Male,Human Resources,2010
+58,980753,62,Male,Marketing,2010
+32,229112,73,Female,Marketing,2010
+23,232514,57,Female,Human Resources,2010
+35,300580,69,Male,Human Resources,2010
+31,326506,62,Female,Engineering,2010
+49,789687,66,Female,Product Management,2010
+47,978276,57,Male,Marketing,2011
+56,928419,80,Male,Human Resources,2011
+36,225669,53,Female,Human Resources,2011
+53,841320,78,Male,Human Resources,2011
+23,450465,73,Female,Engineering,2011
+54,375775,73,Male,Human Resources,2011
+48,348920,51,Male,Accounting,2011
+19,283837,65,Female,Engineering,2011
+53,672992,51,Male,Human Resources,2011
+30,647383,50,Male,Human Resources,2011
+46,841134,73,Female,Human Resources,2011
+32,487277,68,Female,Marketing,2011
+46,817152,69,Male,Marketing,2011
+28,399695,57,Female,Engineering,2011
+55,259845,56,Female,Human Resources,2011
+44,557791,73,Female,Marketing,2011
+45,995549,51,Female,Human Resources,2011
+30,601811,71,Female,Accounting,2011
+59,698091,74,Male,Human Resources,2011
+56,811908,69,Female,Engineering,2011
+43,690983,60,Male,Engineering,2011
+48,393336,59,Female,Engineering,2011
+52,477297,51,Male,Accounting,2011
+20,477383,79,Female,Human Resources,2011
+53,631386,52,Female,Engineering,2011
+35,850322,65,Female,Accounting,2011
+45,423846,66,Female,Engineering,2011
+22,951525,80,Female,Marketing,2011
+24,635393,57,Female,Engineering,2011
+21,734568,74,Female,Human Resources,2011
+37,678500,55,Female,Human Resources,2011
+52,768595,55,Female,Human Resources,2011
+30,954853,70,Female,Human Resources,2011
+26,644270,56,Male,Accounting,2011
+36,542655,62,Male,Human Resources,2011
+34,661326,56,Female,Engineering,2011
+51,477244,78,Female,Engineering,2011
+47,521388,68,Male,Accounting,2012
+56,999627,54,Male,Engineering,2012
+47,370601,69,Female,Engineering,2012
+29,430063,77,Male,Engineering,2012
+51,281418,67,Female,Marketing,2012
+30,604431,54,Female,Accounting,2012
+43,903310,54,Female,Marketing,2012
+20,966957,63,Female,Accounting,2012
+39,492238,52,Male,Human Resources,2012
+21,321184,59,Female,Human Resources,2012
+32,282752,66,Male,Engineering,2012
+21,982015,75,Female,Accounting,2012
+55,658281,80,Female,Engineering,2012
+33,639044,51,Female,Human Resources,2012
+56,324625,53,Male,Engineering,2012
+53,666489,73,Female,Engineering,2012
+48,494954,68,Female,Marketing,2012
+33,610476,66,Female,Engineering,2012
+27,529349,77,Male,Human Resources,2012
+52,453830,54,Female,Marketing,2012
+49,586095,54,Female,Human Resources,2012
+32,209595,71,Male,Human Resources,2012
+32,349628,73,Female,Human Resources,2012
+52,607628,57,Male,Human Resources,2012
+44,839722,74,Female,Engineering,2012
+21,339268,54,Female,Engineering,2012
+21,842198,66,Male,Engineering,2012
+34,818673,73,Female,Human Resources,2012
+32,742227,50,Male,Human Resources,2012
+19,898851,53,Female,Engineering,2012
+55,949010,77,Female,Accounting,2012
+22,721202,67,Female,Engineering,2012
+47,523195,62,Female,Marketing,2012
+32,804621,61,Female,Accounting,2012
+54,746541,68,Male,Engineering,2012
+38,262122,75,Male,Marketing,2012
+20,375231,63,Female,Human Resources,2012
+58,702348,62,Male,Product Management,2012
+41,420205,66,Male,Marketing,2012
+41,853779,75,Male,Human Resources,2012
+24,213052,73,Male,Human Resources,2012
+52,415805,68,Female,Accounting,2012
+30,496695,62,Male,Marketing,2012
+24,543972,79,Male,Engineering,2012
+38,475971,53,Female,Human Resources,2013
+54,205066,64,Female,Accounting,2013
+52,616716,89,Female,Marketing,2013
+52,825918,69,Female,Product Management,2013
+46,517512,69,Male,Accounting,2013
+24,759520,60,Male,Engineering,2013
